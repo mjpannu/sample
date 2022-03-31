@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"10e1ee0ddd8b43d59dbf45fb8174ae22","collectionName":"beat_serial_numbers_backup","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"039c7b3c766e46deab1f46bef0b87e29","collectionName":"beat_licences","type":"collection"}

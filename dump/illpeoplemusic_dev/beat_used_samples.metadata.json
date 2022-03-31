@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"12588f43bafc439598eda72c55f2c74a","collectionName":"beat_used_samples","type":"collection"}

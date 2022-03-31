@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"eeaa75e88f594d198ac759b5a05c9318","collectionName":"beat_coupons","type":"collection"}
